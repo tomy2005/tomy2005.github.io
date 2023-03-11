@@ -1,0 +1,29 @@
+
+head{
+    font-weight: 300px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ffff;
+    color: black;
+    font: 200 14px 'Poppins', sans-serif
+}
+h1{
+    font-size: 42px;
+}
+h2{
+    font-size: 36px;
+    line-height: 36px;
+}
+.seccion{
+    padding: 10px 100px 10px 100px;
+}
+#mail{
+    padding: 10px 0px 0px 0px;
+}
+#contactos{
+    border-top: 1px solid blue;
+}
